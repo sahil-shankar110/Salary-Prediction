@@ -1,0 +1,8 @@
+# Py Cache 
+__pycache__/
+
+# Venv
+.venv/
+
+# Vs code
+.vscode/
