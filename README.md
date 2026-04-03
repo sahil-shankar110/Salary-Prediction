@@ -40,7 +40,6 @@ Predicting compensation is a critical task for both HR departments and job seeke
 ---
 
 ## 📂 Project Structure
-```text
 ├── app.py                  # Main Streamlit application
 ├── data/                   # Raw and processed datasets
 ├── notebooks/              # Exploratory Data Analysis & Model Training
@@ -51,11 +50,14 @@ Predicting compensation is a critical task for both HR departments and job seeke
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project documentation
 
+---
 
 ## Clone the Repository
 **Open your terminal and run:**
 git clone [https://github.com/sahil-shankar110/Salary-Prediction.git](https://github.com/sahil-shankar110/Salary-Prediction.git)
 cd Salary-Prediction
+
+---
 
 ## Create a Virtual Environment
 # Windows
@@ -65,6 +67,8 @@ venv\Scripts\activate
 # macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
+
+---
 
 ## Install Dependencies
 pip install --upgrade pip
